@@ -15,11 +15,59 @@
 
 
 
+1. [Projects](#projects)
+     - [Computer Vision](#repositories-computer-vision)
+     - [Machine Learning](#repositories-machine-learning)
+     - [Deep Learning](#repositories-deep-learning)
+     - [Learning Journey](#learning-resources--journey)
+
+2. [GitHub Stats](#-github-stats)
+3. [Language & Tools](#️-languages--tools)
+4. [Let's Connect](#-lets-connect)
 
 
-* [GitHub Stats](#-github-stats)
-* [Language & Tools](#️-languages--tools)
-* [Let's Connect](#-lets-connect)
+
+## Projects
+Below are some of the projects
+### **Repositories Computer Vision**
+1. [Computer Vision Applications](https://github.com/muhammadfahd/Computer-Vision-Applications) - A collection of computer vision projects Computer Vision open cv
+   1. [Vehicle Detection using Contonur](https://github.com/muhammadfahd/Computer-Vision-Applications/tree/main/1-Vehicle%20Detetion%20using%20contour%20concept)
+   2. [Live Sketch](https://github.com/muhammadfahd/Computer-Vision-Applications/tree/main/2-Live%20Sketch)
+   3. [My Virtual Mouse](https://github.com/muhammadfahd/Computer-Vision-Applications/tree/main/3-My%20Virtual%20Mouse)
+   4. [Interactive Digital Pallete](https://github.com/muhammadfahd/Computer-Vision-Applications/tree/main/4-Interactive%20Digital%20pallete)
+   ---
+2. [Media Pipe Applications](https://github.com/muhammadfahd/medipipe_applications) 
+   1. [Remove Background or Replace](https://github.com/muhammadfahd/medipipe_applications/tree/main/1-Background%20remove%20or%20replace)
+   2. [Blur Background](https://github.com/muhammadfahd/medipipe_applications/tree/main/2-Blur%20Background)
+   3. [Desaturating Background](https://github.com/muhammadfahd/medipipe_applications/tree/main/3-Desaturating%20background)
+---
+3. [Pose Detection System](https://github.com/muhammadfahd/Pose_Detection_System)
+
+
+
+### **Repositories Machine Learning**
+1. [Customer Segmentation using KNN means](https://github.com/muhammadfahd/customer_segmentation_using_kmeans) - A project on customer segmentation using K-means clustering (Unsupervised Learning)
+
+
+
+
+### **Repositories Deep Learning**
+1. [Cats & Dog Classifier](https://github.com/muhammadfahd/cats-and-dogs-classifier) - A simple image classifier for cats and dogs using CNN 
+
+
+
+
+
+
+
+
+### Learning Resources & Journey 
+
+* [Hand written Notes ](https://github.com/muhammadfahd/advace_ai_course_notes) - Notes & Lecture of Free AI Advance Course by Irfan Malik 
+* [AI & Data Science Journey](https://github.com/muhammadfahd/AI_DataScience_Journey) | 6-Months AI and Data Science Mentorship Program" by Codanics, led by Dr. Ammar Ahmed
+* [Computer Vision Tutorial](https://github.com/muhammadfahd/computer_vision_tutorial-mini-application) -  comprehensive tutorial for learning computer vision concepts |
+
+
 
 
 
