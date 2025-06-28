@@ -20,6 +20,7 @@
      - [Machine Learning](#repositories-machine-learning)
      - [Deep Learning](#repositories-deep-learning)
      - [Learning Journey](#learning-resources--journey)
+     - [Volunteer Teaching](#repositories-volunteer-teaching)
 
 2. [GitHub Stats](#-github-stats)
 3. [Language & Tools](#️-languages--tools)
@@ -57,7 +58,9 @@ Below are some of the projects
 
 
 
-
+### ** Repositories Volunteer Teaching**
+1. [Python for Everyone] (https://github.com/muhammadfahd/python-for-everyone-course)
+2. [Software Quality Assurance & Project Management](https://github.com/muhammadfahd/sqa_and_pm_course_live_classes)
 
 
 
