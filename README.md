@@ -58,7 +58,7 @@ Below are some of the projects
 
 
 
-### ** Repositories Volunteer Teaching**
+### **Repositories Volunteer Teaching**
 1. [Python for Everyone](https://github.com/muhammadfahd/python-for-everyone-course) A Python course for beginners to teach programming concepts.  
 2. [Software Quality Assurance & Project Management](https://github.com/muhammadfahd/sqa_and_pm_course_live_classes) A course for teaching concepts & practicals related to software quality assurance & project management.
 
