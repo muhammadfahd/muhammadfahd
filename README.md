@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Machine Learning, Deep Learning & Datas Sceince**
 - 👯 I’m looking to collaborate on **open-source AI and ML projects**
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/muhammadfahd) , [Hugging Face Space](https://huggingface.co/mfahadkhan)
-- 📝 I write articles on [Hashnode](https://mfahadbashir.hashnode.dev/) , [Linkedin](https://www.linkedin.com/in/mfahadbashir/recent-activity/articles/)
+- 📝 I write articles on [Hashnode](https://mfahadbashir.hashnode.dev/) , [Linkedin](https://www.linkedin.com/in/mfahadbashir/recent-activity/articles/) , [Medium](https://medium.com/@mfahadbashir)
 - 💬 Ask me about **Python, AI, LLMs, Streamlit, Gradio, Superwised Learning, Data Science**
 - 📫 How to reach me **bashirfahad789@gmail.com**
 - ⚡ Fun fact: **I love building AI apps that help people!**
