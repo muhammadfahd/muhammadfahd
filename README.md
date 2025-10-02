@@ -20,7 +20,7 @@
   - [**Repositories Machine Learning**](#repositories-machine-learning)
   - [**Repositories Deep Learning**](#repositories-deep-learning)
   - [**Chrome Extension**](#chrome-extension)
-  - [**Repositories Volunteer Teaching**](#repositories-volunteer-teaching)
+- [**Repositories Volunteer Teaching**](#repositories-volunteer-teaching)
   - [Learning Resources \& Journey](#learning-resources--journey)
   - [📈 GitHub Stats:](#-github-stats)
   - [🛠️ Languages \& Tools:](#️-languages--tools)
@@ -55,6 +55,7 @@ Below are some of the projects
 
 ### **Repositories Deep Learning**
 1. [Cats & Dog Classifier](https://github.com/muhammadfahd/cats-and-dogs-classifier) - A simple image classifier for cats and dogs using CNN 
+2. [Rice Image Classification using CNN](https://github.com/muhammadfahd/CNN-implementation-using-rice-image) -This project implements a Convolutional Neural Network (CNN) to classify different varieties of rice using an image dataset.
 
 
 ### **Chrome Extension** 
@@ -62,7 +63,7 @@ Below are some of the projects
 2. 
 
 
-### **Repositories Volunteer Teaching**
+## **Repositories Volunteer Teaching**
 1. [Python for Everyone](https://github.com/muhammadfahd/python-for-everyone-course) A Python course for beginners to teach programming concepts.  
 2. [Software Quality Assurance & Project Management](https://github.com/muhammadfahd/sqa_and_pm_course_live_classes) A course for teaching concepts & practicals related to software quality assurance & project management.
 
