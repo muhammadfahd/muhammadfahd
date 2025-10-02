@@ -15,16 +15,16 @@
 
 
 
-1. [Projects](#projects)
-     - [Computer Vision](#repositories-computer-vision)
-     - [Machine Learning](#repositories-machine-learning)
-     - [Deep Learning](#repositories-deep-learning)
-     - [Learning Journey](#learning-resources--journey)
-     - [Volunteer Teaching](#repositories-volunteer-teaching)
-
-2. [GitHub Stats](#-github-stats)
-3. [Language & Tools](#️-languages--tools)
-4. [Let's Connect](#-lets-connect)
+- [Projects](#projects)
+  - [**Repositories Computer Vision**](#repositories-computer-vision)
+  - [**Repositories Machine Learning**](#repositories-machine-learning)
+  - [**Repositories Deep Learning**](#repositories-deep-learning)
+  - [**Chrome Extension**](#chrome-extension)
+  - [**Repositories Volunteer Teaching**](#repositories-volunteer-teaching)
+  - [Learning Resources \& Journey](#learning-resources--journey)
+  - [📈 GitHub Stats:](#-github-stats)
+  - [🛠️ Languages \& Tools:](#️-languages--tools)
+  - [🙌 Let's Connect](#-lets-connect)
 
 
 
@@ -48,6 +48,7 @@ Below are some of the projects
 
 ### **Repositories Machine Learning**
 1. [Customer Segmentation using KNN means](https://github.com/muhammadfahd/customer_segmentation_using_kmeans) - A project on customer segmentation using K-means clustering (Unsupervised Learning)
+2. [Churn Prediction ML Model Classification](https://github.com/muhammadfahd/churn_prediction_ml_model_-classification-) - Churn Prediction using Machine Learning to identify customers likely to leave a service, built with scikit-learn, Streamlit, and Pandas (Supervised Learning)
 
 
 
@@ -56,6 +57,9 @@ Below are some of the projects
 1. [Cats & Dog Classifier](https://github.com/muhammadfahd/cats-and-dogs-classifier) - A simple image classifier for cats and dogs using CNN 
 
 
+### **Chrome Extension** 
+1. [Astronomy Wallpaper](https://github.com/muhammadfahd/astronomy-wallpaper) -  is a simple yet fascinating Chrome extension that sets NASA's Astronomy Picture of the Day (APOD) as your new tab background
+2. 
 
 
 ### **Repositories Volunteer Teaching**
