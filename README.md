@@ -56,6 +56,7 @@ Below are some of the projects
 ### **Repositories Deep Learning**
 1. [Cats & Dog Classifier](https://github.com/muhammadfahd/cats-and-dogs-classifier) - A simple image classifier for cats and dogs using CNN 
 2. [Rice Image Classification using CNN](https://github.com/muhammadfahd/CNN-implementation-using-rice-image) -This project implements a Convolutional Neural Network (CNN) to classify different varieties of rice using an image dataset.
+3. [Plant bean Disease Detection using CNN](https://github.com/muhammadfahd/plant-disease-detection-using-cnn-) - This project implements a Convolutional Neural Network (CNN) to classify different disease on bean plant using available dataset on tensorflow.
 
 
 ### **Chrome Extension** 
