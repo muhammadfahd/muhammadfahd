@@ -19,8 +19,10 @@
   - [**Repositories Computer Vision**](#repositories-computer-vision)
   - [**Repositories Machine Learning**](#repositories-machine-learning)
   - [**Repositories Deep Learning**](#repositories-deep-learning)
-  - [**Chrome Extension**](#chrome-extension)
-- [**Repositories Volunteer Teaching**](#repositories-volunteer-teaching)
+  - [**Other Porjects**](#other-porjects)
+  - [**Chrome Extensions**](#chrome-extensions)
+  - [**Hackathons**](#hackathons)
+- [**Repositories Volunteer Teaching \& Training**](#repositories-volunteer-teaching--training)
   - [Learning Resources \& Journey](#learning-resources--journey)
   - [📈 GitHub Stats:](#-github-stats)
   - [🛠️ Languages \& Tools:](#️-languages--tools)
@@ -54,22 +56,28 @@ Below are some of the projects
 
 
 ### **Repositories Deep Learning**
-1. [Cats & Dog Classifier](https://github.com/muhammadfahd/cats-and-dogs-classifier) - A simple image classifier for cats and dogs using CNN
-2. [Chest X-Ray Pneumonia Detection using CNN](https://www.kaggle.com/code/muhammadfahadbashir/chest-x-ray-pneumonia-detection-using-cnn)
-3. [Rice Image Classification using CNN](https://github.com/muhammadfahd/CNN-implementation-using-rice-image) -This project implements a Convolutional Neural Network (CNN) to classify different varieties of rice using an image dataset.
-4. [Plant bean Disease Detection using CNN](https://github.com/muhammadfahd/plant-disease-detection-using-cnn-) - This project implements a Convolutional Neural Network (CNN) to classify different disease on bean plant using available dataset on tensorflow.
-5. [Chat-Style Text Generator using RNN (LSTM)](https://github.com/muhammadfahd/Chat-Style-Text-Generator-using-RNN-LSTM-) - This project is about training a recurrent neural network (LSTM) to model short conversational turns and generate chat-style text.
+1. [Cats & Dog Classifier](https://github.com/muhammadfahd/cats-and-dogs-classifier) - A simple image classifier for cats and dogs using CNN 
+2. [Rice Image Classification using CNN](https://github.com/muhammadfahd/CNN-implementation-using-rice-image) -This project implements a Convolutional Neural Network (CNN) to classify different varieties of rice using an image dataset.
+3. [Plant bean Disease Detection using CNN](https://github.com/muhammadfahd/plant-disease-detection-using-cnn-) - This project implements a Convolutional Neural Network (CNN) to classify different disease on bean plant using available dataset on tensorflow.
+
+### **Other Porjects** 
+1. [Sorting Visulazier & Analyzer](https://github.com/muhammadfahd/Sorting-Visualizer-Analyzer) - An interactive and educational Streamlit project designed to help learners understand Sorting Algorithms
 
 
-### **Chrome Extension** 
+### **Chrome Extensions** 
 1. [Astronomy Wallpaper](https://github.com/muhammadfahd/astronomy-wallpaper) -  is a simple yet fascinating Chrome extension that sets NASA's Astronomy Picture of the Day (APOD) as your new tab background
 2. 
 
+### **Hackathons**
+1. [Bloom Watch AI Porject](https://github.com/muhammadfahd/Bloom-Watch-AI) - BloomWatch AI is an interactive web application developed for theNASA Space Apps Challenge 
 
-## **Repositories Volunteer Teaching**
+
+## **Repositories Volunteer Teaching & Training**
 1. [Python for Everyone](https://github.com/muhammadfahd/python-for-everyone-course) A Python course for beginners to teach programming concepts.  
 2. [Software Quality Assurance & Project Management](https://github.com/muhammadfahd/sqa_and_pm_course_live_classes) A course for teaching concepts & practicals related to software quality assurance & project management.
-
+3. [Course Material & Resources For Data Structure Class & Algorithm](https://github.com/muhammadfahd/learning-datastructure) - A course for teaching concepts of DSA to my students. 
+4. [Workshop: Telling Stories with Data Visualization Using Python](https://github.com/muhammadfahd/workshop-telling-stories-using-data-visualization) A live workshop on zoom covering different Data Visualization Python Libraries
+5. [Workshop: Building Your First Deep Learning Project with CNN](https://github.com/muhammadfahd/workshop-your-first-deep-learning-project-with-cnn) A beginner-friendly, practical introduction to Deep Learning with a special focus on Convolutional Neural Networks (CNNs).
 
 
 ### Learning Resources & Journey 
