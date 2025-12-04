@@ -49,8 +49,10 @@ Below are some of the projects
 
 
 ### **Repositories Machine Learning**
-1. [Customer Segmentation using KNN means](https://github.com/muhammadfahd/customer_segmentation_using_kmeans) - A project on customer segmentation using K-means clustering (Unsupervised Learning)
-2. [Churn Prediction ML Model Classification](https://github.com/muhammadfahd/churn_prediction_ml_model_-classification-) - Churn Prediction using Machine Learning to identify customers likely to leave a service, built with scikit-learn, Streamlit, and Pandas (Supervised Learning)
+
+1. [Churn Prediction ML Model Classification](https://github.com/muhammadfahd/churn_prediction_ml_model_-classification-) - Churn Prediction using Machine Learning to identify customers likely to leave a service, built with scikit-learn, Streamlit, and Pandas (Supervised Learning)
+2. [Student Exam Score Prediction Using Supervised Machine Learning (Random Forest Regression)](https://github.com/muhammadfahd/Student-Exam-Score-Prediction-Using-Supervised-Machine-Learning-Random-Forest-Regression-) - Predicting student exam scores using supervised machine learning with Random Forest regression based on academic and behavioral data
+3. [Customer Segmentation using KNN means](https://github.com/muhammadfahd/customer_segmentation_using_kmeans) - A project on customer segmentation using K-means clustering (Unsupervised Learning)
 
 
 
