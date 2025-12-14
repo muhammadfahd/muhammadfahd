@@ -80,6 +80,7 @@ Below are some of the projects
 3. [Course Material & Resources For Data Structure Class & Algorithm](https://github.com/muhammadfahd/learning-datastructure) - A course for teaching concepts of DSA to my students. 
 4. [Workshop: Telling Stories with Data Visualization Using Python](https://github.com/muhammadfahd/workshop-telling-stories-using-data-visualization) A live workshop on zoom covering different Data Visualization Python Libraries
 5. [Workshop: Building Your First Deep Learning Project with CNN](https://github.com/muhammadfahd/workshop-your-first-deep-learning-project-with-cnn) A beginner-friendly, practical introduction to Deep Learning with a special focus on Convolutional Neural Networks (CNNs).
+6. [Workshop: Data Pre-Processing & Visualization for Machine Learning](https://github.com/muhammadfahd/Data-Pre-processing-Visualization?tab=readme-ov-file) ive workshop on Data Pre-Processing & Visualization for Machine Learning, covering core concepts, hands-on practicals, and interactive Q&A
 
 
 ### Learning Resources & Journey 
