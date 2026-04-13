@@ -68,7 +68,7 @@ Below are some of the projects
 
 ### **Chrome Extensions** 
 1. [Astronomy Wallpaper](https://github.com/muhammadfahd/astronomy-wallpaper) -  is a simple yet fascinating Chrome extension that sets NASA's Astronomy Picture of the Day (APOD) as your new tab background
-2. 
+2. [FocusGuard](https://github.com/muhammadfahd/FocusGuard---A-Chrome-Extension) - A minimalist Chrome extension to help students stay focused by tracking browsing time, setting website limits, and using Pomodoro technique.
 
 ### **Hackathons**
 1. [Bloom Watch AI Porject](https://github.com/muhammadfahd/Bloom-Watch-AI) - BloomWatch AI is an interactive web application developed for theNASA Space Apps Challenge 
