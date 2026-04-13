@@ -71,7 +71,8 @@ Below are some of the projects
 2. [FocusGuard](https://github.com/muhammadfahd/FocusGuard---A-Chrome-Extension) - A minimalist Chrome extension to help students stay focused by tracking browsing time, setting website limits, and using Pomodoro technique.
 
 ### **Hackathons**
-1. [Bloom Watch AI Porject](https://github.com/muhammadfahd/Bloom-Watch-AI) - BloomWatch AI is an interactive web application developed for theNASA Space Apps Challenge 
+1. [Bloom Watch AI Porject](https://github.com/muhammadfahd/Bloom-Watch-AI) - BloomWatch AI is an interactive web application developed for theNASA Space Apps Challenge
+2. [Nurture-The-Living-Metaphor](https://github.com/muhammadfahd/Nurture-The-Living-Metaphor) - Children grow exactly like the plants we tend. Nurture- the living metaphor uses a powerful plant metaphor to visualize how a parent’s words act as either nutrients or toxins.
 
 
 ## **Repositories Volunteer Teaching & Training**
