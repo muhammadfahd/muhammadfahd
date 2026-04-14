@@ -19,6 +19,7 @@
   - [**Repositories Computer Vision**](#repositories-computer-vision)
   - [**Repositories Machine Learning**](#repositories-machine-learning)
   - [**Repositories Deep Learning**](#repositories-deep-learning)
+  - [**Generative AI Applications**](#generative-ai-applications)
   - [**Other Porjects**](#other-porjects)
   - [**Chrome Extensions**](#chrome-extensions)
   - [**Hackathons**](#hackathons)
