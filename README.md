@@ -62,6 +62,14 @@ Below are some of the projects
 2. [Rice Image Classification using CNN](https://github.com/muhammadfahd/CNN-implementation-using-rice-image) -This project implements a Convolutional Neural Network (CNN) to classify different varieties of rice using an image dataset.
 3. [Plant bean Disease Detection using CNN](https://github.com/muhammadfahd/plant-disease-detection-using-cnn-) - This project implements a Convolutional Neural Network (CNN) to classify different disease on bean plant using available dataset on tensorflow.
 
+
+### **Generative AI Applications**
+1. [Spice Garden Chatbot ](https://github.com/muhammadfahd/spice-garden-chatbot) - An AI-powered restaurant web app with a landing page and intelligent chatbot assistant.
+2. [Blessing Counter](https://github.com/muhammadfahd/Blessing-Counter-) - Quantify your gratitude. Gain a deeper perspective. Built this app in Google AI Studio 
+
+
+
+
 ### **Other Porjects** 
 1. [Sorting Visulazier & Analyzer](https://github.com/muhammadfahd/Sorting-Visualizer-Analyzer) - An interactive and educational Streamlit project designed to help learners understand Sorting Algorithms
 
