@@ -97,6 +97,7 @@ A collection of practical OpenCV projects including **vehicle detection, live sk
 1. [Cats & Dogs Classifier](https://github.com/muhammadfahd/cats-and-dogs-classifier) — CNN-based image classifier for cats and dogs.
 2. [Rice Image Classification using CNN](https://github.com/muhammadfahd/CNN-implementation-using-rice-image) — CNN implementation for classifying different rice varieties.
 3. [Bean Plant Disease Detection using CNN](https://github.com/muhammadfahd/plant-disease-detection-using-cnn-) — CNN-based classification of diseases in bean plants.
+4. [Chat-Style Text Generator using RNN (LSTM)](https://github.com/muhammadfahd/Chat-Style-Text-Generator-using-RNN-LSTM-) - This project is about training a recurrent neural network (LSTM) to model short conversational turns and generate chat-style text.
 
 ### 💬 Natural Language Processing
 
