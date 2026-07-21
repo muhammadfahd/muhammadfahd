@@ -147,6 +147,7 @@ I enjoy sharing technical knowledge through volunteer teaching, workshops, cours
 - [Handwritten Notes](https://github.com/muhammadfahd/advace_ai_course_notes) — Notes and lectures from an Advanced AI course by Irfan Malik.
 - [AI & Data Science Journey](https://github.com/muhammadfahd/AI_DataScience_Journey) — Work from a 6-month AI and Data Science mentorship program by Codanics, led by Dr. Ammar Ahmed.
 - [Computer Vision Tutorial](https://github.com/muhammadfahd/computer_vision_tutorial-mini-application) — Comprehensive learning material covering Computer Vision concepts through mini applications.
+- [AI Foundations](https://github.com/muhammadfahd/FAANG-AI-Foundations) - documenting my progress through the Cracking FAANG: AI Foundations to LLMs Intensive course
 
 ---
 
