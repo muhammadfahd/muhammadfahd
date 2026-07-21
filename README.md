@@ -21,7 +21,7 @@
   - [**Repositories Deep Learning**](#repositories-deep-learning)
   - [**NLP - Natural Language Processing**](#natural-langugae-processing)
   - [**Generative AI Applications**](#generative-ai-applications)
-  - [**Other Porjects**](#other-porjects)
+  - [**Other Projects**](#other-porjects)
   - [**Chrome Extensions**](#chrome-extensions)
   - [**Hackathons**](#hackathons)
 - [**Repositories Volunteer Teaching \& Training**](#repositories-volunteer-teaching--training)
