@@ -19,6 +19,7 @@
   - [**Repositories Computer Vision**](#repositories-computer-vision)
   - [**Repositories Machine Learning**](#repositories-machine-learning)
   - [**Repositories Deep Learning**](#repositories-deep-learning)
+  - [**NLP - Natural Language Processing**](#natural-langugae-processing)
   - [**Generative AI Applications**](#generative-ai-applications)
   - [**Other Porjects**](#other-porjects)
   - [**Chrome Extensions**](#chrome-extensions)
@@ -56,32 +57,38 @@ Below are some of the projects
 3. [Customer Segmentation using KNN means](https://github.com/muhammadfahd/customer_segmentation_using_kmeans) - A project on customer segmentation using K-means clustering (Unsupervised Learning)
 
 
-
-
 ### **Repositories Deep Learning**
 1. [Cats & Dog Classifier](https://github.com/muhammadfahd/cats-and-dogs-classifier) - A simple image classifier for cats and dogs using CNN 
 2. [Rice Image Classification using CNN](https://github.com/muhammadfahd/CNN-implementation-using-rice-image) -This project implements a Convolutional Neural Network (CNN) to classify different varieties of rice using an image dataset.
 3. [Plant bean Disease Detection using CNN](https://github.com/muhammadfahd/plant-disease-detection-using-cnn-) - This project implements a Convolutional Neural Network (CNN) to classify different disease on bean plant using available dataset on tensorflow.
 
 
+### **NLP(Natural Langugae Processing)**
+1. [Classical to Modern NLP](https://github.com/muhammadfahd/classical-to-modern-nlp) - A hands-on research portfolio covering the evolution of NLP from TF-IDF and Word2Vec to BERT, Fairness, and Explainability through practical project
+2. [Fairness Across Transformer Models](https://github.com/muhammadfahd/transformer-fairness-analysis) - conducted an exploratory comparative fairness analysis of BERT, DistilBERT, and RoBERTa
+
+
 ### **Generative AI Applications**
 1. [Spice Garden Chatbot ](https://github.com/muhammadfahd/spice-garden-chatbot) - An AI-powered restaurant web app with a landing page and intelligent chatbot assistant.
-2. [Blessing Counter](https://github.com/muhammadfahd/Blessing-Counter-) - Quantify your gratitude. Gain a deeper perspective. Built this app in Google AI Studio 
+2. [Blessing Counter](https://github.com/muhammadfahd/Blessing-Counter-) - Quantify your gratitude. Gain a deeper perspective. Built this app in Google AI Studio.
+3. [AI Mentor — Full Stack AI Learning App (MVP)](https://github.com/muhammadfahd/ai-mentor) - An AI-powered learning assistant that helps users ask questions, get explanations, and track learning progress.
 
 
 
 
 ### **Other Porjects** 
-1. [Sorting Visulazier & Analyzer](https://github.com/muhammadfahd/Sorting-Visualizer-Analyzer) - An interactive and educational Streamlit project designed to help learners understand Sorting Algorithms
+1. [Sorting Visulazier & Analyzer](https://github.com/muhammadfahd/Sorting-Visualizer-Analyzer) - An interactive and educational Streamlit project designed to help learners understand Sorting Algorithms.
+2. [Arduino Learning Journey](https://github.com/muhammadfahd/arduino-learning-journey) - A beginner-friendly collection of Arduino projects built from scratch. This repository documents my journey of learning embedded systems and IoT step by step.
 
 
 ### **Chrome Extensions** 
-1. [Astronomy Wallpaper](https://github.com/muhammadfahd/astronomy-wallpaper) -  is a simple yet fascinating Chrome extension that sets NASA's Astronomy Picture of the Day (APOD) as your new tab background
-2. [FocusGuard](https://github.com/muhammadfahd/FocusGuard---A-Chrome-Extension) - A minimalist Chrome extension to help students stay focused by tracking browsing time, setting website limits, and using Pomodoro technique.
+1. [Astronomy Wallpaper](https://github.com/muhammadfahd/astronomy-wallpaper) -  A simple yet fascinating Chrome extension that sets NASA's Astronomy Picture of the Day (APOD) as your new tab background
+2. [FocusGuard](https://github.com/muhammadfahd/FocusGuard---A-Chrome-Extension) - A minimalist Chrome extension to help students stay focused by tracking browsing time, setting website limits, and using the Pomodoro technique.
 
 ### **Hackathons**
-1. [Bloom Watch AI Porject](https://github.com/muhammadfahd/Bloom-Watch-AI) - BloomWatch AI is an interactive web application developed for theNASA Space Apps Challenge
+1. [Bloom Watch AI Porject](https://github.com/muhammadfahd/Bloom-Watch-AI) - BloomWatch AI is an interactive web application developed for the NASA Space Apps Challenge
 2. [Nurture-The-Living-Metaphor](https://github.com/muhammadfahd/Nurture-The-Living-Metaphor) - Children grow exactly like the plants we tend. Nurture- the living metaphor uses a powerful plant metaphor to visualize how a parent’s words act as either nutrients or toxins.
+3. [CropPassport AI](https://github.com/muhammadfahd/crop-passport-ai) - a  farmer-friendly digital crop traceability platform that helps small-scale farmers document the journey of their crops and create a Digital Crop Passport
 
 
 ## **Repositories Volunteer Teaching & Training**
@@ -92,6 +99,7 @@ Below are some of the projects
 5. [Workshop: Building Your First Deep Learning Project with CNN](https://github.com/muhammadfahd/workshop-your-first-deep-learning-project-with-cnn) A beginner-friendly, practical introduction to Deep Learning with a special focus on Convolutional Neural Networks (CNNs).
 6. [Workshop: Data Pre-Processing & Visualization for Machine Learning](https://github.com/muhammadfahd/Data-Pre-processing-Visualization?tab=readme-ov-file) ive workshop on Data Pre-Processing & Visualization for Machine Learning, covering core concepts, hands-on practicals, and interactive Q&A
 7. [workshop: Real Time Object Detection and Image Analysis Using YOLO](https://github.com/muhammadfahd/workshop-Real-Time-Object-Detection-and-Image-Analysis-Using-YOLO) A beginner-friendly hands-on workshop on Computer Vision and Real-Time Object Detection using YOLO11 and Python.
+8. [Workshop: Practical Audio Processing with Machine Learning](https://github.com/muhammadfahd/workshop-Practical-audio-pre-processing-with-machine-learning) - A beginner-friendly hands-on workshop that introduces the fundamentals of Audio Machine Learning through practical implementations using Python, Librosa, Machine Learning, and Transfer Learning.
 
 ### Learning Resources & Journey 
 
