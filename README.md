@@ -76,15 +76,15 @@ A collection of practical OpenCV projects including **vehicle detection, live sk
 ### 👁️ Computer Vision
 
 1. [Computer Vision Applications](https://github.com/muhammadfahd/Computer-Vision-Applications) — A collection of practical OpenCV applications.
-   - [Vehicle Detection using Contour](https://github.com/muhammadfahd/Computer-Vision-Applications/tree/main/1-Vehicle%20Detetion%20using%20contour%20concept)
-   - [Live Sketch](https://github.com/muhammadfahd/Computer-Vision-Applications/tree/main/2-Live%20Sketch)
-   - [My Virtual Mouse](https://github.com/muhammadfahd/Computer-Vision-Applications/tree/main/3-My%20Virtual%20Mouse)
-   - [Interactive Digital Palette](https://github.com/muhammadfahd/Computer-Vision-Applications/tree/main/4-Interactive%20Digital%20pallete)
-2. [MediaPipe Applications](https://github.com/muhammadfahd/medipipe_applications)
-   - [Remove or Replace Background](https://github.com/muhammadfahd/medipipe_applications/tree/main/1-Background%20remove%20or%20replace)
-   - [Blur Background](https://github.com/muhammadfahd/medipipe_applications/tree/main/2-Blur%20Background)
-   - [Desaturating Background](https://github.com/muhammadfahd/medipipe_applications/tree/main/3-Desaturating%20background)
-3. [Pose Detection System](https://github.com/muhammadfahd/Pose_Detection_System)
+   - [Vehicle Detection using Contour](https://github.com/muhammadfahd/Computer-Vision-Applications/tree/main/1-Vehicle%20Detetion%20using%20contour%20concept) - Detects vehicles from a pre-recorded video or live feed using contour detection techniques.
+   - [Live Sketch](https://github.com/muhammadfahd/Computer-Vision-Applications/tree/main/2-Live%20Sketch) - Turns your webcam feed into a live pencil sketch in real time.
+   - [My Virtual Mouse](https://github.com/muhammadfahd/Computer-Vision-Applications/tree/main/3-My%20Virtual%20Mouse) - A Python-based Virtual Mouse application that allows you to control the cursor on your screen using hand gestures captured through your webcam.
+   - [Interactive Digital Palette](https://github.com/muhammadfahd/Computer-Vision-Applications/tree/main/4-Interactive%20Digital%20pallete) - a desktop drawing application built using Python and OpenCV! This tool transforms your screen into a virtual canvas,
+2. [MediaPipe Applications](https://github.com/muhammadfahd/medipipe_applications) - mini applications using media pipe 
+   - [Remove or Replace Background](https://github.com/muhammadfahd/medipipe_applications/tree/main/1-Background%20remove%20or%20replace) - Replace the background of an image with a custom background using Mediapipe's powerful segmentation model.
+   - [Blur Background](https://github.com/muhammadfahd/medipipe_applications/tree/main/2-Blur%20Background) - keep the person in focus and blur out the rest like a DSLR camera
+   - [Desaturating Background](https://github.com/muhammadfahd/medipipe_applications/tree/main/3-Desaturating%20background) - Selfie Segmentation to isolate a person in an image, then creatively desaturates (grayscales) the background
+3. [Pose Detection System](https://github.com/muhammadfahd/Pose_Detection_System) - Application for real-time pose detection and analysis.  It can track body movements, analyze exercise form, count repetitions, and provide immediate feedback on posture and technique.
 
 ### 📊 Machine Learning
 
@@ -103,6 +103,7 @@ A collection of practical OpenCV projects including **vehicle detection, live sk
 
 1. [Classical to Modern NLP](https://github.com/muhammadfahd/classical-to-modern-nlp) — A hands-on research portfolio spanning TF-IDF, Word2Vec, BERT, fairness, and explainability.
 2. [Fairness Across Transformer Models](https://github.com/muhammadfahd/transformer-fairness-analysis) — Comparative fairness analysis of BERT, DistilBERT, and RoBERTa.
+3. [Research Lens - AI Assistant for your documents ](https://github.com/muhammadfahd/Researchlens/tree/main) - ResearchLens is an AI-powered research assistant that lets users upload and interact with their own documents using RAG. 
 
 ### ✨ Generative AI
 
@@ -149,6 +150,7 @@ I enjoy sharing technical knowledge through volunteer teaching, workshops, cours
 - [AI & Data Science Journey](https://github.com/muhammadfahd/AI_DataScience_Journey) — Work from a 6-month AI and Data Science mentorship program by Codanics, led by Dr. Ammar Ahmed.
 - [Computer Vision Tutorial](https://github.com/muhammadfahd/computer_vision_tutorial-mini-application) — Comprehensive learning material covering Computer Vision concepts through mini applications.
 - [AI Foundations](https://github.com/muhammadfahd/FAANG-AI-Foundations) - documenting my progress through the Cracking FAANG: AI Foundations to LLMs Intensive course
+- [FAANG AI Foundations](https://github.com/muhammadfahd/FAANG-AI-Foundations) - Documenting my progress through the Cracking FAANG: AI Foundations to LLMs Intensive course
 
 ---
 
@@ -160,6 +162,7 @@ I write practical, beginner-friendly content about **Artificial Intelligence, Ma
 - ✍️ [ML Diaries by Fahd](https://ml-diaries-by-fahd.hashnode.dev/)
 - 💼 [LinkedIn Articles](https://www.linkedin.com/in/mfahadbashir/recent-activity/articles/)
 - ✍️ [Medium](https://medium.com/@mfahadbashir)
+- 
 
 ---
 
