@@ -49,31 +49,31 @@
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🧠 [Classical to Modern NLP](https://github.com/muhammadfahd/classical-to-modern-nlp)
+### [Classical to Modern NLP](https://github.com/muhammadfahd/classical-to-modern-nlp)
 A hands-on NLP research portfolio covering the evolution from **TF-IDF and Word2Vec to BERT, fairness, and explainability**, combining core concepts with practical experiments.
 
-### ⚖️ [Fairness Across Transformer Models](https://github.com/muhammadfahd/transformer-fairness-analysis)
+### [Fairness Across Transformer Models](https://github.com/muhammadfahd/transformer-fairness-analysis)
 An exploratory comparative fairness analysis of **BERT, DistilBERT, and RoBERTa** under a controlled sentiment-analysis setup to examine how model choice affects predictions and fairness behavior.
 
-### 🌾 [CropPassport AI](https://github.com/muhammadfahd/crop-passport-ai)
+### [CropPassport AI](https://github.com/muhammadfahd/crop-passport-ai)
 A farmer-friendly digital crop traceability platform that helps small-scale farmers document the crop journey and create a **Digital Crop Passport**, developed as a hackathon project.
 
-### 🤖 [AI Mentor — Full Stack AI Learning App](https://github.com/muhammadfahd/ai-mentor)
+### [AI Mentor — Full Stack AI Learning App](https://github.com/muhammadfahd/ai-mentor)
 An AI-powered learning assistant that helps users **ask questions, receive explanations, and track their learning progress** through an interactive full-stack experience.
 
-### 🐾 [Cats & Dogs Classifier](https://github.com/muhammadfahd/cats-and-dogs-classifier)
+###  [Cats & Dogs Classifier](https://github.com/muhammadfahd/cats-and-dogs-classifier)
 A practical deep-learning image classification project using a **Convolutional Neural Network (CNN)** to distinguish cats from dogs.
 
-### 👁️ [Computer Vision Applications](https://github.com/muhammadfahd/Computer-Vision-Applications)
+###  [Computer Vision Applications](https://github.com/muhammadfahd/Computer-Vision-Applications)
 A collection of practical OpenCV projects including **vehicle detection, live sketch generation, a virtual mouse, and an interactive digital palette**.
 
 ---
 
 ## 📂 Project Portfolio
 
-### 👁️ Computer Vision
+###  Computer Vision
 
 1. [Computer Vision Applications](https://github.com/muhammadfahd/Computer-Vision-Applications) — A collection of practical OpenCV applications.
    - [Vehicle Detection using Contour](https://github.com/muhammadfahd/Computer-Vision-Applications/tree/main/1-Vehicle%20Detetion%20using%20contour%20concept) - Detects vehicles from a pre-recorded video or live feed using contour detection techniques.
@@ -86,20 +86,20 @@ A collection of practical OpenCV projects including **vehicle detection, live sk
    - [Desaturating Background](https://github.com/muhammadfahd/medipipe_applications/tree/main/3-Desaturating%20background) - Selfie Segmentation to isolate a person in an image, then creatively desaturates (grayscales) the background
 3. [Pose Detection System](https://github.com/muhammadfahd/Pose_Detection_System) - Application for real-time pose detection and analysis.  It can track body movements, analyze exercise form, count repetitions, and provide immediate feedback on posture and technique.
 
-### 📊 Machine Learning
+### Machine Learning
 
 1. [Churn Prediction ML Model — Classification](https://github.com/muhammadfahd/churn_prediction_ml_model_-classification-) — Predicts customers likely to leave a service using supervised machine learning, scikit-learn, Streamlit, and Pandas.
 2. [Student Exam Score Prediction — Random Forest Regression](https://github.com/muhammadfahd/Student-Exam-Score-Prediction-Using-Supervised-Machine-Learning-Random-Forest-Regression-) — Predicts student exam scores using academic and behavioral data.
 3. [Customer Segmentation using K-means](https://github.com/muhammadfahd/customer_segmentation_using_kmeans) — Customer segmentation using unsupervised learning and K-means clustering.
 
-### 🧠 Deep Learning
+###  Deep Learning
 
 1. [Cats & Dogs Classifier](https://github.com/muhammadfahd/cats-and-dogs-classifier) — CNN-based image classifier for cats and dogs.
 2. [Rice Image Classification using CNN](https://github.com/muhammadfahd/CNN-implementation-using-rice-image) — CNN implementation for classifying different rice varieties.
 3. [Bean Plant Disease Detection using CNN](https://github.com/muhammadfahd/plant-disease-detection-using-cnn-) — CNN-based classification of diseases in bean plants.
 4. [Chat-Style Text Generator using RNN (LSTM)](https://github.com/muhammadfahd/Chat-Style-Text-Generator-using-RNN-LSTM-) - This project is about training a recurrent neural network (LSTM) to model short conversational turns and generate chat-style text.
 
-### 💬 Natural Language Processing
+### Natural Language Processing
 
 1. [Classical to Modern NLP](https://github.com/muhammadfahd/classical-to-modern-nlp) — A hands-on research portfolio spanning TF-IDF, Word2Vec, BERT, fairness, and explainability.
 2. [Fairness Across Transformer Models](https://github.com/muhammadfahd/transformer-fairness-analysis) — Comparative fairness analysis of BERT, DistilBERT, and RoBERTa.
@@ -111,7 +111,7 @@ A collection of practical OpenCV projects including **vehicle detection, live sk
 2. [Blessing Counter](https://github.com/muhammadfahd/Blessing-Counter-) — An AI application designed to help users quantify gratitude and gain perspective, built with Google AI Studio.
 3. [AI Mentor — Full Stack AI Learning App](https://github.com/muhammadfahd/ai-mentor) — AI-powered learning assistant for questions, explanations, and learning-progress tracking.
 
-### 🧩 Other Projects
+###  Other Projects
 
 1. [Sorting Visualizer & Analyzer](https://github.com/muhammadfahd/Sorting-Visualizer-Analyzer) — Interactive Streamlit project for understanding and comparing sorting algorithms.
 2. [Arduino Learning Journey](https://github.com/muhammadfahd/arduino-learning-journey) — Beginner-friendly collection documenting my step-by-step journey into embedded systems and IoT.
