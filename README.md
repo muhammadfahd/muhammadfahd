@@ -120,6 +120,7 @@ A collection of practical OpenCV projects including **vehicle detection, live sk
 
 1. [Astronomy Wallpaper](https://github.com/muhammadfahd/astronomy-wallpaper) — Chrome extension that displays NASA's Astronomy Picture of the Day as a new-tab background.
 2. [FocusGuard](https://github.com/muhammadfahd/FocusGuard---A-Chrome-Extension) — Productivity extension featuring browsing-time tracking, website limits, and the Pomodoro technique.
+3. [Daily Website Counter](https://chromewebstore.google.com/detail/bfpcfniinblganldeckchonbnmmhnncc/preview?hl=en&authuser=0) - A simple chrome extension that Counts unique websites visited per day, with a 7-day history view, donut breakdown, and light/dark theme.
 
 ---
 
