@@ -129,6 +129,7 @@ A collection of practical OpenCV projects including **vehicle detection, live sk
 1. [BloomWatch AI](https://github.com/muhammadfahd/Bloom-Watch-AI) — Interactive web application developed for the **NASA Space Apps Challenge**.
 2. [Nurture — The Living Metaphor](https://github.com/muhammadfahd/Nurture-The-Living-Metaphor) — Uses a plant metaphor to visualize how a parent's words can act as nutrients or toxins in a child's growth.
 3. [CropPassport AI](https://github.com/muhammadfahd/crop-passport-ai) — Farmer-friendly digital crop traceability platform for documenting crop journeys and generating Digital Crop Passports.
+4. [Verdikt- Know your claims odds](https://lablab.ai/ai-hackathons/nativebuilder-build-without-limits/null-pointers/verdikt-know-your-claims-odds-before-you-file-it) - Verdikt is audit tool designed to help stressed claimants strengthen their insurance claims before submission. 
 
 ---
 
