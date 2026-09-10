@@ -103,7 +103,8 @@ A collection of practical OpenCV projects including **vehicle detection, live sk
 
 1. [Classical to Modern NLP](https://github.com/muhammadfahd/classical-to-modern-nlp) — A hands-on research portfolio spanning TF-IDF, Word2Vec, BERT, fairness, and explainability.
 2. [Fairness Across Transformer Models](https://github.com/muhammadfahd/transformer-fairness-analysis) — Comparative fairness analysis of BERT, DistilBERT, and RoBERTa.
-3. [Research Lens - AI Assistant for your documents ](https://github.com/muhammadfahd/Researchlens/tree/main) - ResearchLens is an AI-powered research assistant that lets users upload and interact with their own documents using RAG. 
+3. [Research Lens - AI Assistant for your documents ](https://github.com/muhammadfahd/Researchlens/tree/main) - ResearchLens is an AI-powered research assistant that lets users upload and interact with their own documents using RAG.
+4. [VulnLens - Explainable AI-Assisted Software Vulnerability Detection](https://github.com/muhammadfahd/-VulnLens---Explainable-AI-Assisted-Software-Vulnerability-Detection) -  research-oriented prototype exploring how AI and LLMs can assist software vulnerability detection and provide developer-friendly explanations.
 
 ### ✨ Generative AI
 
@@ -115,6 +116,7 @@ A collection of practical OpenCV projects including **vehicle detection, live sk
 
 1. [Sorting Visualizer & Analyzer](https://github.com/muhammadfahd/Sorting-Visualizer-Analyzer) — Interactive Streamlit project for understanding and comparing sorting algorithms.
 2. [Arduino Learning Journey](https://github.com/muhammadfahd/arduino-learning-journey) — Beginner-friendly collection documenting my step-by-step journey into embedded systems and IoT.
+3. [Project Ledger - A lightweight web app that gives university teachers a single, organized dashboard of every student's project progress](https://github.com/muhammadfahd/Progress-Ledger) -  A lightweight web app that gives university teachers a single, organized dashboard of every student's project progress
 
 ### 🌐 Chrome Extensions
 
@@ -129,8 +131,8 @@ A collection of practical OpenCV projects including **vehicle detection, live sk
 1. [BloomWatch AI](https://github.com/muhammadfahd/Bloom-Watch-AI) — Interactive web application developed for the **NASA Space Apps Challenge**.
 2. [Nurture — The Living Metaphor](https://github.com/muhammadfahd/Nurture-The-Living-Metaphor) — Uses a plant metaphor to visualize how a parent's words can act as nutrients or toxins in a child's growth.
 3. [CropPassport AI](https://github.com/muhammadfahd/crop-passport-ai) — Farmer-friendly digital crop traceability platform for documenting crop journeys and generating Digital Crop Passports.
-4. [Verdikt- Know your claims odds](https://lablab.ai/ai-hackathons/nativebuilder-build-without-limits/null-pointers/verdikt-know-your-claims-odds-before-you-file-it) - Verdikt is audit tool designed to help stressed claimants strengthen their insurance claims before submission. 
-
+4. [Verdikt- Know your claims odds](https://lablab.ai/ai-hackathons/nativebuilder-build-without-limits/null-pointers/verdikt-know-your-claims-odds-before-you-file-it) - Verdikt is audit tool designed to help stressed claimants strengthen their insurance claims before submission.
+5. [WorkerHeat - Hyperlocal Occupational Heat Intelligence](https://github.com/muhammadfahd/WorkerHeat-Occupational-Heat-Intelligence) - WorkerHeat is a heat-risk intelligence platform designed to help teams understand and manage outdoor worker heat exposure.
 ---
 
 ## 👨‍🏫 Teaching & Community
@@ -145,6 +147,8 @@ I enjoy sharing technical knowledge through volunteer teaching, workshops, cours
 6. [Workshop: Data Pre-Processing & Visualization for Machine Learning](https://github.com/muhammadfahd/Data-Pre-processing-Visualization?tab=readme-ov-file) — Hands-on workshop covering preprocessing, visualization, practical exercises, and Q&A.
 7. [Workshop: Real-Time Object Detection and Image Analysis Using YOLO](https://github.com/muhammadfahd/workshop-Real-Time-Object-Detection-and-Image-Analysis-Using-YOLO) — Beginner-friendly workshop on Computer Vision and real-time object detection using YOLO11 and Python.
 8. [Workshop: Practical Audio Processing with Machine Learning](https://github.com/muhammadfahd/workshop-Practical-audio-pre-processing-with-machine-learning) — Hands-on introduction to Audio ML using Python, Librosa, machine learning, and transfer learning.
+9. [Workshop: "NLP Essentials: Concepts to Code" - Co-Trainer M Fahad Bashir](https://www.youtube.com/watch?v=OUGhIcBG0j0&list=PLAIRSMdFhzoIIopo8bA136m0lpX4vlp-r&index=3&t=166s) -  "NLP Essentials: Concepts to Code" provides a comprehensive introduction to Natural Language Processing (NLP).
+10. [Workshop :"Foundation of Information Security " - Co-Trainer M Fahad Bashir](https://www.youtube.com/watch?v=aAjsB6Xx9xc&list=PLAIRSMdFhzoIIopo8bA136m0lpX4vlp-r&index=2) -  provides a foundational overview of information security.
 
 ### 📚 Learning Resources & Journey
 
