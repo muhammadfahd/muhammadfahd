@@ -87,7 +87,10 @@ A collection of practical OpenCV projects including **vehicle detection, live sk
 3. [Pose Detection System](https://github.com/muhammadfahd/Pose_Detection_System) - Application for real-time pose detection and analysis.  It can track body movements, analyze exercise form, count repetitions, and provide immediate feedback on posture and technique.
 
 ### Machine Learning
-
+ 
+ * [Notebook - ML Fundamentals & Model Selection](https://github.com/muhammadfahd/ML-Fundamentals-Model-Selcetion-/tree/main) - A beginner-friendly guide to understanding Machine Learning fundamentals, popular algorithms, and when to use them.
+   
+**Projects**
 1. [Churn Prediction ML Model — Classification](https://github.com/muhammadfahd/churn_prediction_ml_model_-classification-) — Predicts customers likely to leave a service using supervised machine learning, scikit-learn, Streamlit, and Pandas.
 2. [Student Exam Score Prediction — Random Forest Regression](https://github.com/muhammadfahd/Student-Exam-Score-Prediction-Using-Supervised-Machine-Learning-Random-Forest-Regression-) — Predicts student exam scores using academic and behavioral data.
 3. [Customer Segmentation using K-means](https://github.com/muhammadfahd/customer_segmentation_using_kmeans) — Customer segmentation using unsupervised learning and K-means clustering.
